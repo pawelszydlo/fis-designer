@@ -1,3 +1,6 @@
+## This repo is stale and the project is no longer developed by me. Stefan - the original creator of FIS Control - is now the owner. You can find the app at [https://fis-control.de/fis-design/](https://fis-control.de/fis-design/)
+
+
 FIS-Designer is a hobby project aiming to help design dashboards for the fantastic
 [FIS-Control MMI](https://fis-control.de/fis_control_mmi_en.html) device.
 
